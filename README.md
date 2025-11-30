@@ -64,15 +64,15 @@ Designed this compact board is an all-in-one solution for environmental sensing 
 
 ### Power Management
 The power stage uses the **MCP73871** to manage USB and Battery power seamlessy. An **LM1117-3.3** provides the system voltage.
-![Power Schematic](Images/Screenshot-2025-09-02-162614.jpg)
+
 
 ### Sensor Array
 The board features a BME280 for environment data, a MAX4466 for audio processing, and a TEMT6000 for light detection.
-![Sensors Schematic](Images/Screenshot-2025-09-02-162630.jpg)
+
 
 ### MCU & Storage
 The ESP32-C3 is the heart of the board, interfacing with the SD Card and Flash memory via SPI.
-![MCU Schematic](Images/Screenshot-2025-09-02-162621.jpg)
+
 
 ## 🚀 Getting Started
 
@@ -88,9 +88,5 @@ The ESP32-C3 is the heart of the board, interfacing with the SD Card and Flash m
     *   **PlatformIO / Arduino IDE**: Select board **"ESP32C3 Dev Module"**.
     *   **Auto-Upload**: The board includes the standard transistor reset logic, so no manual button pressing is required to upload code.
 
-## 📷 Gallery
 
-| PCB Layout (Top) | 3D Rendering |
-|------------------|--------------|
-| <img src="Images/Screenshot-2025-09-02-162248.jpg" width="400"> | <img src="Images/Screenshot-2025-12-01-011835.jpg" width="400"> |
 
