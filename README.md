@@ -12,7 +12,7 @@ This repository contains the hardware design files (KiCad) for a custom **4-laye
 Designed this compact board is an all-in-one solution for environmental sensing and data logging. It integrates power management for LiPo batteries, a suite of sensors (Environmental, Light, Audio), and dual storage options (SD Card + External Flash), making it ideal for low-power edge computing applications.
 
 <p align="center">
-  <img src="Images/Screenshot-2025-12-01-011835.jpg" alt="3D Board View" width="800">
+  <img src="PCB_view.png" alt="3D Board View" width="800">
 </p>
 
 ## ✨ Key Features
