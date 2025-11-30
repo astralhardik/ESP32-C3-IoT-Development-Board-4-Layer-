@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32_Footprints")(type "KiCad")(uri "D:/kicad/ESP32-IOT 4 Layer PCB/Libraries/Footprints")(options "")(descr ""))
+)
