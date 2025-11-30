@@ -1,9 +1,9 @@
 # ESP32-C3 IoT Development Board (4-Layer)
-
-![Build Status](https://img.shields.io/badge/Hardware-Tested-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![KiCad](https://img.shields.io/badge/Designed%20in-KiCad%209.0-white?logo=kicad)
-![OSHW](https://img.shields.io/badge/OSH%20Hardware-Rev%201.0-orange)
+
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+
 
 ## 📋 Project Overview
 
